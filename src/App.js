@@ -14,7 +14,7 @@ function App() {
       <SayMyName nome="Ana" />
       <SayMyName nome="React" />
       <SayMyName nome={nome} />
-      <Pessoa nome="Ana" idade="28" profissao="Desenvolvedora Jr." foto="https://source.unsplash.com/random/200x95" />
+      <Pessoa nome="Ana" idade="28" profissao="Desenvolvedora Front-end Jr." foto="https://source.unsplash.com/random/200x95" />
     </div>
   );
 }
