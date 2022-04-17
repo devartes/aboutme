@@ -8,13 +8,13 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Testando...</h1>
+      <h1>Testando React...</h1>
       <Frase/>
       <Frase/>
       <SayMyName nome="Ana" />
       <SayMyName nome="React" />
       <SayMyName nome={nome} />
-      <Pessoa nome="Ana" idade="27" profissao="Desenvolvedora" foto="https://source.unsplash.com/random/200x95" />
+      <Pessoa nome="Ana" idade="28" profissao="Desenvolvedora Jr." foto="https://source.unsplash.com/random/200x95" />
     </div>
   );
 }
